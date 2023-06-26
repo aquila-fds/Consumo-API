@@ -1,0 +1,5 @@
+-DESCRIÇÃO
+
+o projeto tem como objetivo principal a simplicidade para o fácil entendimento e uso dos usuarios,
+mostrando o clima da cidade ou do país, usando HTML, CSS, javaScript e a localização. 
+A experiencia foi de aprendizado máximo e sensações únicas.
